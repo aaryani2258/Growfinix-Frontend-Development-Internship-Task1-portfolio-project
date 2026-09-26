@@ -8,7 +8,7 @@ I enjoy building AI projects, responsive websites, and creative digital experien
 
 ## Live Demo
 
-[View Portfolio](https://aaryani2258.github.io/Growfinix-Frontend-Development-Internship-Task1-portfolio-project/)
+[View Portfolio](https://aaryani-portfolio.netlify.app/)
 
 
 ## Features
